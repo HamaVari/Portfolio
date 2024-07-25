@@ -1,0 +1,42 @@
+{
+  "offers_now": [
+    {
+      "Title": "Second Extinction™",
+      "ImageUrl": "https://cdn1.epicgames.com/offer/fcd3387b58864614b66952d0430d2b9a/EGS_SecondExtinction_SystemicReaction_S1_2560x1440-4a9d265c505b45c75b65916c366f5fca",
+      "Description": "Большая карта. Огромные динозавры. Мощные пушки.\nСовладайте с постоянно растущей угрозой вместе с друзьями в онлайн-шутере Second Extinction.\n",
+      "StoreLink": "https://store.epicgames.com/ru/p/second-extinction",
+      "VideoTrailer": "C:\\Users\\serej\\source\\repos\\MonitoringGiveawaysEGBotWindows\\bin\\Release\\net6.0\\..\\..\\..\\Data\\GamesData\\output2.mp4",
+      "StartDate": "2023-04-13T18:00:00",
+      "EndDate": "2023-04-20T18:00:00"
+    },
+    {
+      "Title": "MORDHAU",
+      "ImageUrl": "https://cdn1.epicgames.com/offer/2bda08f9230144a19e98373cc4a6ac2d/EGS_MORDHAU_Triterniondoo_S2_1200x1600-3c795e67d44f02e4127ed4df435560f3",
+      "Description": "MORDHAU — средневековый многопользовательский слэшер. Создайте своего наёмника и деритесь в динамичных и жестоких схватках, осаждайте замки, скачите на врагов верхом и делайте многое другое.",
+      "StoreLink": "https://store.epicgames.com/ru/p/mordhau",
+      "VideoTrailer": "C:\\Users\\serej\\source\\repos\\MonitoringGiveawaysEGBotWindows\\bin\\Release\\net6.0\\..\\..\\..\\Data\\GamesData\\output4.mp4",
+      "StartDate": "2023-04-13T18:00:00",
+      "EndDate": "2023-04-20T18:00:00"
+    }
+  ],
+  "upcoming_offers": [
+    {
+      "Title": "Beyond Blue",
+      "ImageUrl": "https://cdn1.epicgames.com/bd9fd28ca1214868922f2ab41d6d3b65/offer/EGS_BeyondBlue_ELineMedia_S1-2560x1440-5d205f1273f6b805db82bc525a1432b9.jpg",
+      "Description": "Beyond Blue — это однопользовательская игра в стиле приключенческого повествования, в которой мы оказываемся в пульсирующем голубом сердце нашей планеты.  Игрок переносится в ближайшее будущее и познаёт тайны океана, обозревая подводный мир глазами Мирай — ученой и исследовате...",
+      "StoreLink": "https://store.epicgames.com/ru/p/beyond-blue",
+      "VideoTrailer": "C:\\Users\\serej\\source\\repos\\MonitoringGiveawaysEGBotWindows\\bin\\Release\\net6.0\\..\\..\\..\\Data\\GamesData\\output1.mp4",
+      "StartDate": "2023-04-20T18:00:00",
+      "EndDate": "2023-04-27T18:00:00"
+    },
+    {
+      "Title": "Never Alone (Kisima Ingitchuna)",
+      "ImageUrl": "https://cdn1.epicgames.com/offer/b13f6a1e5121469d8a825947b759339d/EGS_NeverAloneKisimaIngitchuna_UpperOneGamesELineMedia_S2_1200x1600-f1c99ff9638dd36c65e87dedcbb564f1",
+      "Description": "Окунитесь в эпическое путешествие Нуны (Nuna) и Лиса (Fox), стремящихся найти источник непрекращающейся метели, которая может разрушить весь их мир.",
+      "StoreLink": "https://store.epicgames.com/ru/p/never-alone-kisima-ingitchuna",
+      "VideoTrailer": "C:\\Users\\serej\\source\\repos\\MonitoringGiveawaysEGBotWindows\\bin\\Release\\net6.0\\..\\..\\..\\Data\\GamesData\\output3.mp4",
+      "StartDate": "2023-04-20T18:00:00",
+      "EndDate": "2023-04-27T18:00:00"
+    }
+  ]
+}
